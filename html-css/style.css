@@ -1,0 +1,179 @@
+table{
+    background-color: rgb(53, 53, 53);
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 7.5cm;
+    padding-right: 7.5cm;
+    margin-left: 0cm;
+    margin-right: 0cm;
+}
+
+table.header_bar tr#headrow td{
+    font-size: 0.45cm;
+}
+
+td a{
+    text-decoration: none;
+    padding-left:10px;
+    padding-right:10px;
+}
+tr#headrow td a:hover{
+    color: white;
+}
+
+tr#headrow td a{
+    color: rgb(194, 194, 194);
+}
+
+p.protag{
+    font-style: bold;
+    text-align: center;
+    font-size: 1.5cm;
+    margin-bottom: 3px;
+}
+p.underpro{
+    font-style: bold;
+    text-align: center;
+    font-size: .8cm;
+    margin-top: 0px;
+    margin-bottom: 17px;
+}
+p.links{
+    font-size:.6cm;
+    text-align: center;
+    margin-top: 7px;
+}
+p.links a{
+    color: rgb(70, 70, 255);
+    margin-right: 1cm;
+    margin-left: 0.5cm;
+    text-decoration: none;
+}
+p.links a:hover{
+    text-decoration: underline;
+}
+img.first_pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0cm;
+    margin-top: 0cm;
+    margin-bottom: 0.5cm;
+}
+
+
+p.protag_two{
+    color: white;
+    margin-top: 0cm;
+    background-color: rgb(0, 34, 59);
+    font-style: bold;
+    text-align: center;
+    font-size: 1.5cm;
+    margin-bottom:0cm;
+}
+p.new{
+    color: white;
+    background-color: rgb(0, 34, 59);
+    font-style: bold;
+    text-align: center;
+    font-size: 0.78cm;
+    margin-top:0cm;
+    margin-bottom:0cm;
+}
+p.links_two{
+    margin-top: 0cm;
+    text-align: center;
+    background-color: rgb(0, 34, 59);
+    margin-bottom: 0cm;
+}
+p.links_two a{
+    color: violet;
+    margin-right: 0.6cm;
+    margin-left: 0.7cm;
+    margin-top:ocm;
+    font-size:0.67cm;
+}
+img.second_pic_ext{
+    background-color: rgb(0, 34, 59);
+    padding-top: 50px;
+    padding-left: 12.39cm;
+    padding-right: 12.38cm;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0cm;
+    width: 15cm;
+    height: 10cm;
+}
+
+div.part_two p.protag_two{
+    background-color: white;
+    color: black;
+    margin-top: 0cm;
+    font-style: bold;
+    text-align: center;
+    font-size: 1.5cm;
+    margin-bottom:0cm;
+}
+div.part_two p.new{
+    background-color: white;
+    color: black;
+    font-style: bold;
+    text-align: center;
+    font-size: 0.78cm;
+    margin-top:0.2cm;
+    margin-bottom:0.8cm;
+}
+
+div.part_two p.links_two{
+    background-color: white;
+    color: black;
+    margin-top: 0cm;
+    margin-left: 0.6cm;
+    text-align: center;
+    margin-bottom:0cm;
+}
+div.part_two p.links_two a{
+    background-color: white;
+    color: rgb(70, 70, 255);
+    margin-right: .6Scm;
+    margin-left: 0.5cm;
+    text-decoration: none;
+    margin-top: 0cm;
+}
+div.part_two img#hell{
+    width: 20cm;
+    height: 10cm;
+    padding-left:10cm;
+    margin-bottom: 0.8cm;
+}
+div.watch_section img.watch{
+    margin-left: 10cm;
+    margin-right: auto;
+    width: 20cm;
+    height: 15cm;
+}
+div.watch_section h1{
+    margin-top: 0cm;
+    margin-bottom: 0cm;
+}
+
+div.watch_section h5,h3{
+    color: red;
+    margin-top: 0cm;
+    margin-bottom: 0cm;
+}
+div.watch_section h2{
+    margin-top: 0cm;
+    margin-bottom: 0cm;
+}
+div.watch_section p.links{
+    font-size:.6cm;
+    text-align: center;
+    margin-top: 7px;
+}
+div.watch_section p.links a{
+    color: rgb(70, 70, 255);
+    margin-right: 1cm;
+    margin-left: 0.5cm;
+    text-decoration: none;
+}
